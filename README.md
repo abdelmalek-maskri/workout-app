@@ -6,7 +6,7 @@ The **Gym Workout Generator** is a web application designed to help users create
 
 ## Demo
 
-You can view a live demo of the application [here](#).
+You can view a live demo of the application [gym-workout-generator.netlify.app](#).
 
 ## Features
 
